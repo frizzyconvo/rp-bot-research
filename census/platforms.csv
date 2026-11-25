@@ -1,0 +1,75 @@
+platform,status,web_visits_per_month_m,est_cards,definitions,cards_and_definitions_basis,users_or_other_size,source_date,kind,region,years,notes
+Character.AI,Active – troubled,194.4,18000000,Semi-closed,18M+ characters (2026 stats roundups). Creators choose public or private definitions.,~20M MAU; peak ~28M (mid-2024),"Similarweb via D17, Feb 2026",Character RP (UGC),US,2022–,"Chapter 11 filed Oct 12, 2026; asset auction Dec 1 (Disney $20M IP license; $10M bid for app, models and chats). Under-18 open chat ended Nov 2025."
+Janitor AI,Active,139.3,639000,Semi-closed,"~639K public characters (Janitor's browse endpoint, Sep 2026). 'Show Definition' is off by default.",2.5M DAU; 15M+ total users (company),AICPB Jun 2026; Forbes May 2026,"Character RP (UGC, NSFW-permissive)",US,2023–,2026 estimates range 117–142M visits/mo. Mostly women users. Official app Feb 2026.
+SpicyChat AI,Active,79.3,1000000,Semi-closed,1M+ characters promoted (2026; older figures 300–850K). Creators can hide definitions.,Not published,"AICPB, Jun 2026","Character RP (UGC, NSFW)",,2023–,"Estimates range 64M (Feb) to 97M (Sep 2026, Semrush)."
+PolyBuzz,Active – troubled,66.4,20000000,Not checked,20M+ characters (company).,50M+ Android installs,"AICPB, Jun 2026",Character RP (UGC),,2024–,"iOS app gone since Oct 15, 2026; web and Android still up. Other estimates 24–43M visits."
+Candy.ai,Active,54.5,,Not checked,,Not published,"AICPB, Jun 2026",NSFW companion + images,,2023–,Mostly web; ~83% male audience.
+CrushOn.AI,Active,40.2,,Not checked,Reported anywhere from 1K to 50K+ characters; sources conflict.,Not published,"Semrush, Sep 2026",Character RP (NSFW),,2023–,Other 2026 estimates 22–28M.
+Perchance AI Character Chat,Active,20.1,,Open,Shared characters upload as files that anyone with the link can load.,No accounts (chats stored in browser),"kearai, early 2026",Free character chat,,,"Figure covers all of perchance.org, which also hosts other generators."
+Joi AI,Active,19.1,,Not checked,,Not published,"AICPB, Jun 2026",NSFW companion,,,
+GirlfriendGPT,Active,11.3,,Not checked,,Not published,"kearai, early 2026",NSFW companion,,,
+Chub.ai (Chub Venus),Active,9.0,311120,Open,"311,120 live public cards (Chub API search counts posted in a community forum thread, Nov 2026). Third-party reviews range 60K–2M+. Cards download as PNG/JSON.",Not published,"AICPB, Jun 2026",Card hub + chat (NSFW-permissive),,2023–,CharacterHub card repo and Venus chat merged in 2024. Visit estimates 5–14M.
+Talkie (MiniMax),Active – troubled,6.5,,Not checked,,~31M global MAU,AICPB Jun 2026; 36Kr Aug 2026,Character companion (voice),China / global,2023–,"Mobile-first, so web visits undercount. iOS pulled in 51 storefronts Nov 18, 2026 (also off US iOS Dec 2024–Feb 2025)."
+FlowGPT,Active,4.4,,Not checked,,Not published,"businessabc, 2026",Prompt & persona hub,,2023–,
+Moescape (ex-Yodayo),Active,3.4,,Not checked,,Not published,"AICPB, Jun 2026",Anime character chat + images,,,Fastest grower in AICPB's June list (+31%).
+Joyland,Active,2.75,60000,Not checked,"60K+ characters (review, 2026).",Not published,"AICPB, Jun 2026",Character RP,,,
+Kindroid,Active,2.2,,Private,"Personal companions, not a public card library.",Not published,"Semrush, Feb 2026",Companion,US,2023–,Unlimited free chat ended Oct 2026.
+Sakura.fm,Active,1.44,,Not checked,,Not published,"kearai, early 2026",Character RP (UGC),,,
+RisuAI,Active,1.27,,Open,"Shares cards through RisuRealm, which SillyTavern imports directly.",Not published,"kearai, early 2026",Open-source chat front-end,,,
+HiWaifu,Active,1.24,,Not checked,,Not published,"kearai, early 2026",Companion,,,
+Character Tavern,Active,1.21,17100,Closed,17.1K+ cards (site claim). Definitions reported closed by users.,Not published,"kearai, early 2026",Card hub + chat,,,
+Nomi,Active,1.09,,Private,Personal companions.,'Hundreds of thousands' (company),"Semrush, Feb 2026",Companion,US,2023–,"Android app pulled from Google Play twice, Sep–Oct 2026."
+Replika,Active,0.53,,Private,Personal companions.,42.2M accounts ever created; ~2M MAU est.,Site counter Sep 2026; Similarweb,Companion,US,2017–,Mostly mobile. ERP removed Feb 2023. €5M Italian privacy fine 2025.
+SillyTavern,Active,0.29,,Open,Local card files; no central library.,Self-hosted; no central count,"Semrush, Feb 2026 (project site)",Self-hosted front-end,,2023–,Fork of TavernAI; users bring their own model or API.
+Pygmalion AI (pygmalion.chat),Active,0.19,3950,Open,"~3,950 cards (undated site counter); SillyTavern imports its links.",~39K Discord members,"ToolMage, May 2026",Character chat (open models),,2022– (models); 2024– (site),The 2023 'Pygmalion era' ran on Colab notebooks + TavernAI; the hosted site came later.
+Dippy,Active,0.17,30000,Not checked,30K+ user-created characters (2025).,Claims 500K+ monthly users,"navtools, 2025",Character RP,,2024–,
+Chai,Active – troubled,,,Not checked,,"1M+ DAU (company, Mar 2025); ~$70M/yr revenue","Company, 2025–26","Character chat (UGC, mobile)",US,2021–,"iOS app unavailable since Oct 22, 2026; web version launched Oct 30."
+Zeta (Scatter Lab),Active – troubled,,2500000,Not checked,2.5M+ characters created (2026 report).,4.28M MAU in Korea,"NamuWiki, Jul 2026",Character RP (mobile),South Korea / Japan,2024–,"Top-grossing romantic companion app H1 2026 ($33M). New iOS downloads stopped Nov 7, 2026."
+Crack (Wrtn),Active,,,Not checked,,~550K MAU,"MobileIndex, May 2026",Character RP / stories,South Korea,2023–,Parent Wrtn reports 5M+ MAU across all products.
+Xingye (MiniMax),Active,,,Not checked,,~3.4M MAU,"36Kr, Aug 2026",Character companion,China,2023–,Chinese sibling of Talkie.
+Maoxiang (ByteDance),Active,,,Not checked,,~490K DAU,"Diandian, May 2025",Character companion,China,,
+AI Dungeon (Latitude),Active,,,n/a,Scenarios rather than character cards.,8M+ registered; ~2M MAU claimed,Latitude / 2026 reports,AI text adventure,US,2019–,Latitude launched Voyage in 2026.
+Emochi,Active,,,Not checked,,7.9M installs in H1 2026,Appfigures via Decrypt,Character chat (mobile),,,Most-downloaded romantic companion app H1 2026.
+Tipsy Chat,Active – troubled,,,Not checked,,$15.2M revenue H1 2026,Appfigures via Decrypt,Character chat (mobile),,,iOS removed Oct 2026.
+Crushie AI,Active,,,Not checked,,$8.8M revenue H1 2026,Appfigures via Decrypt,Companion (mobile),,,
+EVA AI,Active – troubled,,,Private,Personal companions.,~2–4M users (est.),"businessabc, 2026",Romantic companion,,,"iOS removed in US + 53 storefronts Nov 8, 2026."
+Paradot,Active – troubled,,,Private,Personal companions.,5M+ Google Play installs,"Google Play, 2026",Companion,,2023–,Off iOS Sep–Oct and Nov 2026; back Nov 11.
+Muah AI,Active – troubled,,,Not checked,,No reliable figure,,NSFW companion,,,iOS app delisted Sep 2026; web only.
+Grok companions (xAI),Active – troubled,,,n/a,Built-in characters only.,Part of Grok,,Built-in companions,US,2025–,Ani's animated avatar and voice removed ~Sep 2026.
+Xiaoice,Unclear,,,n/a,Single built-in persona.,660M users claimed (2020),"Company claim, 2020 (not re-verified)",Companion,China,2014–,Spun out of Microsoft in 2020; current status not checked.
+Botify AI,Not checked,,,Not checked,,No reliable figure,,Character chat,,,
+Agnaistic (Agnai),Not checked,,,Not checked,,No reliable figure,,Open-source chat front-end,,,
+Wyvern,Active,,24852,Open,"24,852 characters (site counter, ~Oct 2026); definitions open and downloadable.","222,619 users; 3,695 creators (site)","app.wyvern.chat, ~Oct 2026",Character RP,,,
+Saucy AI,Not checked,,,Not checked,,No reliable figure,,Character RP (NSFW),,,
+CharStar,Not checked,,,Not checked,,No reliable figure,,Character RP,,,
+Linky AI,Not checked,,,Not checked,,No reliable figure,,Character chat (mobile),,,
+Lovescape,Not checked,,,Not checked,,No reliable figure,,NSFW companion,,,
+OurDream,Not checked,,,Not checked,,No reliable figure,,NSFW companion + images,,,
+Caveduck,Not checked,,,Not checked,,No reliable figure,,Character chat,South Korea,,
+Babechat,Not checked,,,Not checked,,No reliable figure,,Character chat,South Korea,,
+NovelAI,Not checked,,,n/a,Story-writing tool.,No reliable figure,,Story writing + characters,US,2021–,
+KoboldAI Lite / Horde,Not checked,,,n/a,Front-end; users bring their own cards.,Volunteer-run; no central count,,Free community front-end,,,
+Hammer AI,Not checked,,,n/a,Local app; users bring their own cards.,No reliable figure,,Local character chat app,,,
+DreamGen,Not checked,,,Not checked,,No reliable figure,,Story + RP models,,,
+Saucepan,Active,,,Closed,"Definitions hidden by default to stop scraping (Saucepan FAQ, via 2026 reviews).",Not published,"Reviews, 2026","Character RP (UGC, NSFW-permissive)",,2025–,"Launched Apr 2025; web only, no app-store app."
+Cleverbot,Active,,,n/a,Single pre-LLM bot.,No recent figure,Unsourced (background knowledge),Pre-LLM chatbot,UK,2008– (Jabberwacky 1997),Not re-verified.
+SimSimi,Active,,,n/a,Single pre-LLM bot.,No recent figure,Unsourced (background knowledge),Pre-LLM chatbot,South Korea,2002–,Not re-verified.
+Backyard AI (ex-Faraday),Shut down,,,Not checked,,,"Backyard site, Nov 2026",Local + cloud character chat,US,2023–2026,"Desktop app deprecated 2025; data download window closed Nov 6, 2026."
+Avatar.One,Shut down,,,Not checked,,,"CompanionHunt, 2026",3D web companion,,–2026,"Closed Sep 24, 2026; no refunds."
+Doubao / Qwen / Yuanbao companion modes,Shut down,,,n/a,"Assistant modes, not a card library.",,"CompanionHunt, 2026",Assistant roleplay modes,China,–2026,"Companion and roleplay features removed Jul 15, 2026."
+Dot (New Computer),Shut down,,,Private,Personal companion.,,"TechCrunch, Sep 2025",Personal companion,US,2024–2025,"Closed Oct 5, 2025."
+Xoul AI,Unclear,,,Not checked,,'Thousands' of users,"Storychat, Dec 2025",Character RP,,2024–,"Went offline Apr 21, 2025; reported reachable again late 2025, unstable."
+Moemate,Shut down,,,Not checked,,~6M users claimed,"Cointelegraph via Zulo, 2025",Character companion,,2023–2025,"Offline since Feb 11, 2025."
+Dopple.ai,Shut down,,,Not checked,,,"Medium, 2025",Character RP,,2023–2025,Abandoned; site and app stopped working with no announcement.
+Figgs AI,Shut down,,,Not checked,,,Press + Reddit,Character RP,,–2024,"Closed Dec 30, 2024."
+Venus AI (venusai.chat),Merged,,,Open,Part of Chub.,,Chub history,Character chat front-end,,2023–2024,Became Chub Venus.
+CharacterHub.org,Merged,,,Open,Part of Chub.,,Chub history,Card repository,,2023–2024,Folded into Chub.ai in 2024.
+Meta celebrity AI personas,Shut down,,,n/a,Company-made personas.,28 personas; top one ~179K followers,"Digital Trends, 2024",Celebrity-face personas,US,2023–2024,Ended Jul 2024 in favor of Meta AI Studio.
+CarynAI (Forever Voices),Shut down,,,n/a,Single persona.,,"Dazed / press, 2023",Influencer AI girlfriend,US,2023,Forever Voices folded Oct 2023; a rebuilt BanterAI version was gone by early 2024.
+Soulmate AI (EvolveAI),Shut down,,,Private,Personal companions.,A few thousand active users at close,"Insider, 2023",Companion,,2023,"Closed Sep 30, 2023 after a sale; many users had come from Replika."
+Glow (MiniMax),Shut down,,,Not checked,,~5M users,Wikipedia,Character companion,China,–2023,Removed from Chinese app stores in 2023; MiniMax went on to Xingye and Talkie.
+Lee Luda 1.0 (Scatter Lab),Shut down,,,n/a,Single persona.,750K+ users in 20 days,"Guardian / Yonhap, 2021",Persona chatbot (Messenger),South Korea,2020–2021,"Suspended Jan 12, 2021 over hate speech; relaunched as Luda 2.0 in 2022; team later built Zeta."
+Project December,Unclear,,,Not checked,,,"The Register, 2021",GPT-3 persona chatbot,US,2020–,OpenAI cut its GPT-3 access in 2021; current status not checked.
+Microsoft Zo,Shut down,,,n/a,Single persona.,,Unsourced (background knowledge),Persona chatbot,US,2016–2019,
+Microsoft Tay,Shut down,,,n/a,Single persona.,,Unsourced (background knowledge),Persona chatbot (Twitter),US,2016,Pulled within a day in Mar 2016.
+Kajiwoto,Unclear,,,Not checked,,,App Store listing,Trainable companions,,,App still listed (© 2024); little recent activity.

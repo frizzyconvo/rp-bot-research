@@ -1,0 +1,17 @@
+site,status,web_visits_per_month_m,est_cards,definitions,cards_and_definitions_basis,other_size_info,source_date,what_it_is,years,notes
+Chub.ai / CharacterHub,Active,9.0,311120,Open,"311,120 live public cards (Chub API search counts posted in a community forum thread, Nov 2026).",Largest open card + lorebook library,"AICPB, Jun 2026",Card hub + chat,2023–,"The old characterhub.org address still draws ~274K visits/mo (Semrush, Sep 2026). Also in platforms.csv."
+JannyAI (ex-JanitorAI.me),Active,0.58,1000000,Open,1M+ Janitor characters; shows definitions that Janitor hides.,,"ToolMage, 2025",Janitor AI mirror and archive,,SillyTavern fetches janitorai.com links through it.
+Datacat (datacat.run),Active,,752520,Open,"752,520 characters (site, Nov 2026); cards download as files.","76,196 creator pages","datacat.run, Nov 2026","Aggregator (""Pinterest for AI characters"")",,Indexes Janitor and Saucepan bots with attribution and links back; also hosts original uploads.
+CharaVault (charavault.net),Active,,195000,Open,"195K+ cards (site title); free downloads, age-gated.",,"charavault.net, Nov 2026",Preservation archive,2026–,"Seeded from Character Archive's dataset; adds accounts, moderation, dedup and a public API."
+Character Archive (char-archive.evulid.cc),Shut down,,,Open,Full dataset released as a torrent at shutdown.,Scraped most major platforms,char-archive.evulid.cc,Scraper archive,2024–2026,Closed Jan 2026; released its scraper and site code plus a final torrent. CharaVault carries it on.
+Character Tavern,Active,1.21,17100,Closed,17.1K+ cards (site claim). Definitions reported closed by users.,,"kearai, early 2026",Card hub + chat,,Also in platforms.csv.
+AICharacterCards (AICC),Active,,,Open,SillyTavern imports its links directly.,"Smaller, curated catalog","Roborhythms, 2026",Card hub,,
+RisuRealm,Active,,,Open,SillyTavern imports its links directly.,,RisuAI docs,RisuAI's card-sharing hub,,Cards can carry Creative Commons licenses.
+Pygmalion.chat card library,Active,0.19,3950,Open,"~3,950 cards (undated site counter).",~101K users (undated site counter),pygmalion.chat landing page,Card hub + chat,2024–,"Launched early 2024 as an alternative card repository, then added chat."
+Botbooru,Active,,,Open,Downloadable PNGs; public catalog is SFW-only without a login.,,"Roborhythms, 2026",Card gallery and archive,,Quality varies card to card.
+charhub.ai,Active,0.16,,Not checked,,,"Semrush, Sep 2026",Card hub,,
+Booru.plus (+pygmalion),Shut down,,,Open,Card booru with downloadable PNGs.,,"HoneyChat, 2026",Early card booru,2023–,A main card source in the 2023 Pygmalion/4chan era; the original site is gone.
+Rentry bot lists (meta_bot_list etc.),Not checked,,,n/a,Link lists.,,/aicg/ link lists,Community link indexes,2023–,Hand-kept lists of bots and creators' pages from the 4chan /aicg/ scene.
+jaicards (Hugging Face dataset),Static dump,,190000,Open,~190K Janitor cards converted to V2 format.,,Hugging Face README,Offline dataset + browser page,,Includes a local webpage to browse the cards.
+Roko's Basilisk,Not checked,,932,Open,932 cards in one private 2023 collection; the hub's own total is unknown.,,Private 2023 collection,2023 card-sharing hub / Discord,2023,"Early, very short cards (est. median ~113 tokens). Almost no overlap with other 2023 archives in a dedupe check."
+cardbox.moe,Not verified,,,Not checked,,,,Card site (reported),,Blocks automated fetching and has no search coverage; size and status unconfirmed.

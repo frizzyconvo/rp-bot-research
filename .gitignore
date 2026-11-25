@@ -1,0 +1,11 @@
+# Working data and drafts, kept local
+dev/
+
+# Secrets
+.env
+*.token
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
